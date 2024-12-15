@@ -1,9 +1,9 @@
 [package]
 name = "binmatch"
-version = "1.2.0"
+version = "1.2.2"
 edition = "2021"
 authors = ["1337Dakota <72140289+1337Dakota@users.noreply.github.com>"]
-license = "AGPL-3.0-or-later"
+license = "MIT"
 description = "A simple binary pattern matching crate"
 repository = "https://github.com/1337Dakota/binmatch"
 readme = "README.md"
